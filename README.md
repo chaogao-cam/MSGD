@@ -1,5 +1,5 @@
 # MSGD
-**Authors:** [Chao Gao]<cg500 at cam dot ac dot uk> (University of Cambridge)
+**Authors:** [Chao Gao](cg500 at cam dot ac dot uk)
 
 **Current version:** 1.0.0 
 
