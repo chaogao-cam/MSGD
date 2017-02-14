@@ -1,0 +1,6 @@
+# C++ objects and libs
+msgd
+*.o
+*.a
+
+

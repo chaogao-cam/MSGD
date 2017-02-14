@@ -1,0 +1,7 @@
+MSGD is released under a GPLv3 license (see COPYING.txt).
+Please see Dependencies.md for all the third-party code/libraries included/extended/linked by MSGD.
+
+If you use MSGD in an academic work, please cite related publication by visiting:
+https://github.com/chaogao-cam/MSGD
+
+
