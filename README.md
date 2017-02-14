@@ -1,5 +1,5 @@
 # MSGD
-**Authors:** [Chao Gao](cg500 at cam dot ac dot uk)
+**Authors:** [Chao Gao](https://www.cl.cam.ac.uk/research/dtg/www/people/cg500/)
 
 **Current version:** 1.0.0 
 
@@ -10,7 +10,7 @@ MSGD is a scalable back-end for indoor magnetic field-based graphslam. Please re
 Chao Gao and Robert Harle. **Msgd: Scalable back-end for indoor magnetic field-based graphslam**. In *Robotics and Automation (ICRA), 2017 IEEE International Conference on*. IEEE, 2017.
 
 ###License
-MSGD is released under a [GPLv3 license](https://github.com/chaogao-cam/MSGD/COPYING.txt). For all the third-party code/libraries included/extended/linked by MSGD, please see [Dependencies.md](https://github.com/chaogao-cam/MSGD/Dependencies.md).
+MSGD is released under a [GPLv3 license](https://github.com/chaogao-cam/MSGD/blob/master/COPYING.txt). For all the third-party code/libraries included/extended/linked by MSGD, please see [Dependencies.md](https://github.com/chaogao-cam/MSGD/blob/master/Dependencies.md).
 
 ###Prerequisites
 MSGD has been tested in **OS X El Capitan** and **macOS Sierra**. 
